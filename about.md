@@ -8,7 +8,7 @@ Some information about me!
 
 ### More Information
 
-I started GeeGee Edu [geegee.co.za] this year to help schools get up and running with Moodle.
+I started [geegee.co.za](GeeGee Edu) this year to help schools get up and running with Moodle.
 
 ### Contact me
 
