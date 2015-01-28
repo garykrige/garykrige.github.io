@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Some information about me!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I started GeeGee Edu [geegee.co.za] this year to help schools get up and running with Moodle.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gary@geegee.co.za](mailto:gary@geegee.co.za)
