@@ -23,9 +23,11 @@ I think this is the most significant aspect of Moodle. This is the area that wil
 
 * **Multiple Choice**
 
-There is a lot to be said for MCQ.
+There is a lot to be said for MCQ. 
 
 * Short Answers
+
+These are more tedious to set up.
 
 * Numerical
 
